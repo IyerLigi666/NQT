@@ -1,18 +1,5 @@
 {
-  {
-  "name": "NQT Token",
-  "symbol": "NQT",
-  "description": "This is NQT Project token.",
-  "image": "https://raw.githubusercontent.com/IyerLigi666/metadata/main/nqtLogo.png",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/IyerLigi666/metadata/main/nqtLogo.png",
-        "type": "image/png"
-      }
-    ]
-  }
-}
-
+  "name":"TQT Token",
+  "symbol":"NQT",
+  "image":"https://raw.githubusercontent.com/IyerLigi666/metadata/main/nqtLogo.png"
 }
